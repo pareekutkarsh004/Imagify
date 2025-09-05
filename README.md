@@ -21,16 +21,6 @@ Deployed on **Vercel (Frontend)** & **Render (Backend)** 🚀
 - 📂 **Full-stack architecture** – Client + Server in one repo  
 - 🌍 **Deployed** with free-tier cloud services  
 
----
-
-## 🖼️ Screenshots  
-### 🖼️ Dashboard  
-![Dashboard](./screenshots/dashboard.png)  
-
-### 🖼️ IMAGE GENERATION PAGE 
-![Generate Image](./screenshots/generate.png)  
----
-
 ## ⚙️ Tech Stack  
 
 **Frontend (Client)**  
