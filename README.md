@@ -28,11 +28,7 @@ Deployed on **Vercel (Frontend)** & **Render (Backend)** 🚀
 ![Dashboard](./screenshots/dashboard.png)  
 
 ### 🖼️ IMAGE GENERATION PAGE 
-![Generate Image](.screenshots/generate.png)  
-
-
-*(Add your real screenshots inside a `/screenshots` folder in the repo)*  
-
+![Generate Image](./screenshots/generate.png)  
 ---
 
 ## ⚙️ Tech Stack  
